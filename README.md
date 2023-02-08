@@ -9,8 +9,8 @@ I wrote this for one of my daughters so she could practice solving simple equati
 
 ## Requirements
 
-To compile and run the web application you'll need:
-* Java 5 or greater
+* Java 5 (JRE 1.5 SE) or greater to run
+* Java 5 (JDK 1.5 SE) or greater to compile and/or run 
 
 ## Usage
 
